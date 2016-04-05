@@ -1,0 +1,28 @@
+name: rjhillphotography
+favicon: null
+layout_spectrum: 0.4672544712666422
+typography_spectrum: 0.3611393813043833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.29813018324784935
+  lightness: 0.3151216208934784
+  saturation: 0.5018501877784729
+  rhythmicContrast: 0.37571895425207913
+purpose: []
